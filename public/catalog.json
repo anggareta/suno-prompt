@@ -1,0 +1,1027 @@
+{
+  "version": 3,
+  "genres": [
+    {
+      "name": "J-pop / K-pop",
+      "subgenres": [
+        {
+          "label": "J-pop",
+          "prompt": "Contemporary J-pop"
+        },
+        {
+          "label": "K-pop",
+          "prompt": "Modern K-pop"
+        },
+        {
+          "label": "Retro 80s J-pop",
+          "prompt": "Retro 80s-inspired J-pop"
+        },
+        {
+          "label": "Retro 90s J-pop",
+          "prompt": "Retro 90s J-pop"
+        },
+        {
+          "label": "City Pop",
+          "prompt": "Japanese City Pop"
+        },
+        {
+          "label": "J-pop Rock",
+          "prompt": "Japanese pop-rock"
+        },
+        {
+          "label": "Dream Pop",
+          "prompt": "Dream pop"
+        }
+      ],
+      "instruments": [
+        "Bright bubbly synth plucks, airy ambient pads, and a crisp bouncy drum machine",
+        "Clean electric guitar, melodic bass, piano, and punchy pop drums",
+        "Warm analog synthesizers, vintage drum machine, and melodic bass"
+      ],
+      "arrangement": "catchy melodic hooks with polished pop production"
+    },
+    {
+      "name": "Rock",
+      "subgenres": [
+        {
+          "label": "Classic Rock",
+          "prompt": "Classic Rock"
+        },
+        {
+          "label": "Hard Rock",
+          "prompt": "Hard Rock"
+        },
+        {
+          "label": "Alternative Rock",
+          "prompt": "Alternative Rock"
+        },
+        {
+          "label": "Indie Rock",
+          "prompt": "Indie Rock"
+        },
+        {
+          "label": "Punk Rock",
+          "prompt": "Punk Rock"
+        },
+        {
+          "label": "Progressive Rock",
+          "prompt": "Progressive Rock"
+        },
+        {
+          "label": "Soft Rock",
+          "prompt": "Soft Rock"
+        }
+      ],
+      "instruments": [
+        "Electric guitars, bass guitar, and acoustic drum kit",
+        "Distorted electric guitars, powerful bass, and hard-hitting drums",
+        "Clean electric guitar, melodic bass, and dynamic acoustic drums"
+      ],
+      "arrangement": "guitar-driven arrangements with expressive riffs and dynamic rock rhythms"
+    },
+    {
+      "name": "Pop / Pop-Rock",
+      "subgenres": [
+        {
+          "label": "Pop-Rock",
+          "prompt": "Pop-Rock"
+        },
+        {
+          "label": "Power Pop",
+          "prompt": "Power Pop"
+        },
+        {
+          "label": "Soft Rock",
+          "prompt": "Soft Rock"
+        },
+        {
+          "label": "Indie Pop",
+          "prompt": "Indie Pop"
+        },
+        {
+          "label": "Acoustic Pop",
+          "prompt": "Acoustic Pop"
+        },
+        {
+          "label": "Orchestral Pop",
+          "prompt": "Orchestral Pop"
+        }
+      ],
+      "instruments": [
+        "Clean electric guitars, melodic bass, piano, and punchy pop drums",
+        "Acoustic guitar, piano, warm bass, and light percussion",
+        "Electric guitar, piano, layered synths, and energetic drums"
+      ],
+      "arrangement": "melodic pop hooks with balanced instrumental arrangements"
+    },
+    {
+      "name": "Japanese Traditional",
+      "subgenres": [
+        {
+          "label": "Traditional Japanese",
+          "prompt": "Traditional Japanese music"
+        },
+        {
+          "label": "Enka",
+          "prompt": "Japanese Enka"
+        },
+        {
+          "label": "Minyo",
+          "prompt": "Japanese Minyo folk"
+        },
+        {
+          "label": "Japanese Folk",
+          "prompt": "Japanese folk music"
+        },
+        {
+          "label": "Modern Wa Fusion",
+          "prompt": "Modern Japanese traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Koto, shamisen, shakuhachi, shinobue, and taiko drums",
+        "Koto and shakuhachi with subtle modern synthesizers",
+        "Shamisen, taiko, and traditional Japanese flute"
+      ],
+      "arrangement": "traditional Japanese melodic motifs and distinctive instrumental phrasing"
+    },
+    {
+      "name": "Sundanese Traditional",
+      "subgenres": [
+        {
+          "label": "Degung",
+          "prompt": "Sundanese Degung"
+        },
+        {
+          "label": "Kacapi Suling",
+          "prompt": "Sundanese Kacapi Suling"
+        },
+        {
+          "label": "Tembang Sunda",
+          "prompt": "Tembang Sunda Cianjuran"
+        },
+        {
+          "label": "Jaipongan",
+          "prompt": "Sundanese Jaipongan"
+        },
+        {
+          "label": "Calung",
+          "prompt": "Sundanese Calung"
+        },
+        {
+          "label": "Modern Sunda Fusion",
+          "prompt": "Modern Sundanese traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Gamelan degung, suling Sunda, and kendang Sunda",
+        "Kacapi and suling Sunda",
+        "Kendang Sunda, gamelan, saron, and bonang",
+        "Calung, angklung, and traditional Sundanese percussion"
+      ],
+      "arrangement": "traditional Sundanese melodic patterns and authentic regional instrumental interplay"
+    },
+    {
+      "name": "Orchestral",
+      "subgenres": [
+        {
+          "label": "Cinematic Orchestral",
+          "prompt": "Cinematic orchestral"
+        },
+        {
+          "label": "Symphonic",
+          "prompt": "Symphonic orchestral"
+        },
+        {
+          "label": "Chamber Orchestra",
+          "prompt": "Chamber orchestra"
+        },
+        {
+          "label": "Neo-Classical",
+          "prompt": "Neo-classical orchestral"
+        },
+        {
+          "label": "Epic Orchestral",
+          "prompt": "Epic orchestral"
+        },
+        {
+          "label": "Orchestral Pop",
+          "prompt": "Orchestral pop"
+        }
+      ],
+      "instruments": [
+        "Violin, viola, cello, double bass, piano, and woodwinds",
+        "Full strings, brass, woodwinds, and timpani",
+        "Intimate chamber strings and expressive piano",
+        "Strings, brass, and cinematic percussion"
+      ],
+      "arrangement": "expressive orchestral layers with dynamic swells and melodic development"
+    },
+    {
+      "name": "Electronic",
+      "subgenres": [
+        {
+          "label": "Synth-pop",
+          "prompt": "Synth-pop"
+        },
+        {
+          "label": "EDM",
+          "prompt": "Electronic dance music"
+        },
+        {
+          "label": "House",
+          "prompt": "House music"
+        },
+        {
+          "label": "Trance",
+          "prompt": "Trance electronic"
+        },
+        {
+          "label": "Future Bass",
+          "prompt": "Future bass"
+        },
+        {
+          "label": "Synthwave",
+          "prompt": "Retro synthwave"
+        },
+        {
+          "label": "Dance-pop",
+          "prompt": "Dance-pop"
+        }
+      ],
+      "instruments": [
+        "Analog synthesizers, electronic bass, arpeggiators, and drum machine",
+        "Punchy synth bass, bright synth leads, and electronic dance drums",
+        "Airy pads, rhythmic plucks, and crisp electronic percussion"
+      ],
+      "arrangement": "layered electronic production with rhythmic synth patterns"
+    },
+    {
+      "name": "Jazz / Blues",
+      "subgenres": [
+        {
+          "label": "Smooth Jazz",
+          "prompt": "Smooth Jazz"
+        },
+        {
+          "label": "Swing",
+          "prompt": "Swing Jazz"
+        },
+        {
+          "label": "Bossa Nova",
+          "prompt": "Bossa Nova"
+        },
+        {
+          "label": "Jazz Pop",
+          "prompt": "Jazz Pop"
+        },
+        {
+          "label": "Blues",
+          "prompt": "Blues"
+        },
+        {
+          "label": "Funk",
+          "prompt": "Funk"
+        },
+        {
+          "label": "Soul",
+          "prompt": "Soul"
+        }
+      ],
+      "instruments": [
+        "Jazz piano, saxophone, upright bass, and brushed drums",
+        "Nylon-string guitar, piano, upright bass, and light percussion",
+        "Electric piano, funk guitar, bass, and tight drums"
+      ],
+      "arrangement": "expressive melodic phrasing with organic rhythmic interplay"
+    },
+    {
+      "name": "World / Folk",
+      "subgenres": [
+        {
+          "label": "Indonesian Folk",
+          "prompt": "Indonesian folk music"
+        },
+        {
+          "label": "Celtic Folk",
+          "prompt": "Celtic folk"
+        },
+        {
+          "label": "Latin",
+          "prompt": "Latin music"
+        },
+        {
+          "label": "Middle Eastern",
+          "prompt": "Middle Eastern music"
+        },
+        {
+          "label": "Indian Classical",
+          "prompt": "Indian classical music"
+        },
+        {
+          "label": "Folk Pop",
+          "prompt": "Folk pop"
+        }
+      ],
+      "instruments": [
+        "Acoustic guitar, fiddle, and organic percussion",
+        "Sitar, tabla, and traditional Indian melodic instruments",
+        "Oud, hand percussion, and traditional Middle Eastern strings",
+        "Accordion, acoustic guitar, and folk strings"
+      ],
+      "arrangement": "distinctive folk melodies with organic instrumental textures"
+    },
+    {
+      "name": "Chinese Traditional",
+      "subgenres": [
+        {
+          "label": "Chinese Traditional",
+          "prompt": "Traditional Chinese music"
+        },
+        {
+          "label": "Chinese Classical",
+          "prompt": "Chinese classical music"
+        },
+        {
+          "label": "Chinese Folk",
+          "prompt": "Chinese folk music"
+        },
+        {
+          "label": "Chinese Cinematic",
+          "prompt": "Cinematic Chinese traditional music"
+        },
+        {
+          "label": "Modern Chinese Fusion",
+          "prompt": "Modern Chinese traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Guzheng, erhu, pipa, dizi, and traditional Chinese percussion",
+        "Guqin, xiao flute, yangqin, and subtle ambient textures",
+        "Erhu, dizi, pipa, and cinematic orchestral strings"
+      ],
+      "arrangement": "traditional Chinese melodic motifs with expressive pentatonic melodies and distinctive instrumental interplay"
+    },
+    {
+      "name": "Dangdut",
+      "subgenres": [
+        {
+          "label": "Classic Dangdut",
+          "prompt": "Classic Indonesian Dangdut"
+        },
+        {
+          "label": "Dangdut Melayu",
+          "prompt": "Malay-influenced Dangdut"
+        },
+        {
+          "label": "Dangdut Koplo",
+          "prompt": "Indonesian Dangdut Koplo"
+        },
+        {
+          "label": "Modern Dangdut",
+          "prompt": "Modern Dangdut"
+        },
+        {
+          "label": "Dangdut Pop",
+          "prompt": "Dangdut Pop"
+        }
+      ],
+      "instruments": [
+        "Dangdut kendang, melodic electric bass, keyboard, and traditional flute",
+        "Kendang koplo, electronic keyboard, electric guitar, and punchy drums",
+        "Accordion, kendang, suling, and warm melodic bass"
+      ],
+      "arrangement": "characteristic Dangdut rhythms with syncopated kendang patterns and melodic instrumental interplay"
+    },
+    {
+      "name": "Korean Traditional",
+      "subgenres": [
+        {
+          "label": "Traditional Korean",
+          "prompt": "Traditional Korean music"
+        },
+        {
+          "label": "Korean Gugak",
+          "prompt": "Korean Gugak"
+        },
+        {
+          "label": "Korean Folk",
+          "prompt": "Korean folk music"
+        },
+        {
+          "label": "Korean Court Music",
+          "prompt": "Korean traditional court music"
+        },
+        {
+          "label": "Modern Korean Fusion",
+          "prompt": "Modern Korean traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Gayageum, geomungo, daegeum, haegeum, and janggu",
+        "Daegeum flute, gayageum, traditional percussion, and ambient pads",
+        "Haegeum, gayageum, buk drums, and cinematic strings"
+      ],
+      "arrangement": "traditional Korean melodic motifs with expressive ornamentation and distinctive Gugak instrumentation"
+    },
+    {
+      "name": "Indonesian Traditional",
+      "subgenres": [
+        {
+          "label": "Javanese Gamelan",
+          "prompt": "Javanese Gamelan"
+        },
+        {
+          "label": "Balinese Gamelan",
+          "prompt": "Balinese Gamelan"
+        },
+        {
+          "label": "Keroncong",
+          "prompt": "Indonesian Keroncong"
+        },
+        {
+          "label": "Indonesian Folk",
+          "prompt": "Indonesian traditional folk music"
+        },
+        {
+          "label": "Modern Indonesian Fusion",
+          "prompt": "Modern Indonesian traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Javanese gamelan, saron, bonang, kendang, and gong",
+        "Balinese gamelan, gangsa, kendang, ceng-ceng, and gong",
+        "Keroncong guitar, ukulele, violin, cello, and flute"
+      ],
+      "arrangement": "authentic Indonesian traditional melodies with regional rhythmic patterns and distinctive gamelan textures"
+    },
+    {
+      "name": "Arabic Traditional",
+      "subgenres": [
+        {
+          "label": "Arabic Traditional",
+          "prompt": "Traditional Arabic music"
+        },
+        {
+          "label": "Arabic Classical",
+          "prompt": "Arabic classical music"
+        },
+        {
+          "label": "Arabic Folk",
+          "prompt": "Arabic folk music"
+        },
+        {
+          "label": "Arabic Cinematic",
+          "prompt": "Cinematic Middle Eastern music"
+        },
+        {
+          "label": "Modern Arabic Fusion",
+          "prompt": "Modern Arabic traditional fusion"
+        }
+      ],
+      "instruments": [
+        "Oud, qanun, ney flute, darbuka, and riq percussion",
+        "Arabic strings, oud, traditional hand percussion, and ney flute",
+        "Oud, qanun, and cinematic Middle Eastern orchestral textures"
+      ],
+      "arrangement": "expressive Middle Eastern melodic ornamentation with traditional modal phrasing and rhythmic percussion"
+    },
+    {
+      "name": "Latin / Latin Pop",
+      "subgenres": [
+        {
+          "label": "Latin Pop",
+          "prompt": "Latin Pop"
+        },
+        {
+          "label": "Salsa",
+          "prompt": "Salsa music"
+        },
+        {
+          "label": "Samba",
+          "prompt": "Samba music"
+        },
+        {
+          "label": "Rumba",
+          "prompt": "Rumba music"
+        },
+        {
+          "label": "Latin Fusion",
+          "prompt": "Modern Latin fusion"
+        }
+      ],
+      "instruments": [
+        "Nylon-string guitar, Latin percussion, congas, and melodic bass",
+        "Acoustic guitar, piano, brass section, and salsa percussion",
+        "Latin acoustic guitar, bongos, maracas, and warm bass"
+      ],
+      "arrangement": "rhythmic Latin grooves with syncopated percussion and vibrant melodic arrangements"
+    },
+    {
+      "name": "R&B / Contemporary R&B",
+      "subgenres": [
+        {
+          "label": "Contemporary R&B",
+          "prompt": "Contemporary R&B"
+        },
+        {
+          "label": "Neo-Soul",
+          "prompt": "Neo-Soul"
+        },
+        {
+          "label": "Alternative R&B",
+          "prompt": "Alternative R&B"
+        },
+        {
+          "label": "Smooth R&B",
+          "prompt": "Smooth R&B"
+        },
+        {
+          "label": "R&B Pop",
+          "prompt": "R&B Pop"
+        }
+      ],
+      "instruments": [
+        "Electric piano, smooth synth pads, deep bass, and laid-back electronic drums",
+        "Funky electric guitar, warm bass, Rhodes piano, and tight drums",
+        "Minimal synth textures, sub bass, and syncopated R&B percussion"
+      ],
+      "arrangement": "smooth melodic phrasing with soulful harmonies and syncopated rhythmic grooves"
+    },
+    {
+      "name": "Reggae / Ska",
+      "subgenres": [
+        {
+          "label": "Reggae",
+          "prompt": "Reggae"
+        },
+        {
+          "label": "Roots Reggae",
+          "prompt": "Roots Reggae"
+        },
+        {
+          "label": "Ska",
+          "prompt": "Ska music"
+        },
+        {
+          "label": "Pop Reggae",
+          "prompt": "Pop Reggae"
+        },
+        {
+          "label": "Reggae Fusion",
+          "prompt": "Modern Reggae fusion"
+        }
+      ],
+      "instruments": [
+        "Offbeat electric guitar, warm bass, organ, and relaxed reggae drums",
+        "Skank guitar, Hammond organ, bass guitar, and brass section",
+        "Clean electric guitar, melodic bass, and upbeat ska percussion"
+      ],
+      "arrangement": "distinctive offbeat rhythms with relaxed bass grooves and rhythmic guitar accents"
+    },
+    {
+      "name": "Hip-hop / Rap",
+      "subgenres": [
+        {
+          "label": "Hip-hop",
+          "prompt": "Hip-hop"
+        },
+        {
+          "label": "Boom Bap",
+          "prompt": "Boom Bap Hip-hop"
+        },
+        {
+          "label": "Trap",
+          "prompt": "Trap Hip-hop"
+        },
+        {
+          "label": "Lo-fi Hip-hop",
+          "prompt": "Lo-fi Hip-hop"
+        },
+        {
+          "label": "Melodic Rap",
+          "prompt": "Melodic Rap"
+        }
+      ],
+      "instruments": [
+        "Sampled soul textures, punchy hip-hop drums, deep bass, and vinyl scratches",
+        "808 bass, trap hi-hats, electronic percussion, and atmospheric synths",
+        "Lo-fi drum breaks, warm keys, vinyl textures, and mellow bass"
+      ],
+      "arrangement": "rhythmic beat-driven arrangements with strong bass grooves and expressive vocal delivery"
+    }
+  ],
+  "moods": [
+    {
+      "label": "Ceria, playful, catchy, energik",
+      "prompt": "upbeat, playful, catchy, and energetic"
+    },
+    {
+      "label": "Bright, lively, spacious",
+      "prompt": "upbeat, bright, lively, and spacious"
+    },
+    {
+      "label": "Dreamy, gentle, airy",
+      "prompt": "dreamy, gentle, airy, and light"
+    },
+    {
+      "label": "Emosional, mellow, hangat",
+      "prompt": "emotional, mellow, warm, and expressive"
+    },
+    {
+      "label": "Megah, cinematic, uplifting",
+      "prompt": "dramatic, cinematic, and uplifting"
+    },
+    {
+      "label": "Groovy, funky, danceable",
+      "prompt": "groovy, funky, and danceable"
+    },
+    {
+      "label": "Powerful, intense, energetic",
+      "prompt": "powerful, intense, and energetic"
+    },
+    {
+      "label": "Romantic, intimate, delicate",
+      "prompt": "romantic, intimate, and delicate"
+    }
+  ],
+  "vocals": [
+    {
+      "label": "Dreamy intimate female",
+      "prompt": "Dreamy intimate female vocal with airy breathiness, soft phrasing, and delicate emotional nuances"
+    },
+    {
+      "label": "Husky female soprano",
+      "prompt": "Rich husky female soprano with a wide high range, breathy delivery, and intimate phrasing"
+    },
+    {
+      "label": "Sensual female mezzo-soprano",
+      "prompt": "Sensual husky female mezzo-soprano with a warm low register, breathy phrasing, and subtle rasp"
+    },
+    {
+      "label": "Powerful female soprano",
+      "prompt": "Powerful female soprano with expressive dynamics and soaring high notes"
+    },
+    {
+      "label": "Sweet bright female",
+      "prompt": "Sweet bright female soprano with clear articulation and playful phrasing"
+    },
+    {
+      "label": "Warm male baritone",
+      "prompt": "Warm expressive male baritone with a rich low register, smooth resonance, and intimate phrasing"
+    },
+    {
+      "label": "Clear male tenor",
+      "prompt": "Clear expressive male tenor with a bright upper register, smooth vocal delivery, and melodic phrasing"
+    },
+    {
+      "label": "Soft breathy male",
+      "prompt": "Soft breathy male vocal with gentle articulation, airy textures, and delicate emotional expression"
+    },
+    {
+      "label": "Powerful husky male",
+      "prompt": "Powerful husky male vocal with a gritty texture, strong projection, and expressive dynamic range"
+    },
+    {
+      "label": "Smooth soulful male",
+      "prompt": "Smooth soulful male vocal with warm resonance, subtle vocal ornamentation, and expressive melodic phrasing"
+    },
+    {
+      "label": "Instrumental only",
+      "prompt": "Instrumental only, with no vocals"
+    }
+  ],
+  "fusionStyles": [
+    {
+      "id": "balanced",
+      "label": "Balanced fusion",
+      "prompt": "Balanced fusion approach"
+    },
+    {
+      "id": "primary",
+      "label": "Primary genre dominant",
+      "prompt": "Primary genre dominant approach"
+    },
+    {
+      "id": "accent",
+      "label": "Secondary genre accent",
+      "prompt": "Secondary genre accent approach"
+    }
+  ],
+  "control": {
+    "tempo": [
+      {
+        "label": "Preserve original tempo",
+        "prompt": "Preserve the original tempo"
+      },
+      {
+        "label": "Subtle timing variation",
+        "prompt": "Keep the original tempo feel with only subtle timing variation"
+      },
+      {
+        "label": "Allow tempo variation",
+        "prompt": "Allow tempo variation while retaining the original groove"
+      }
+    ],
+    "beat": [
+      {
+        "label": "Preserve original beat and rhythm",
+        "prompt": "Preserve the original beat and rhythmic pattern"
+      },
+      {
+        "label": "Preserve groove, refresh drum sounds",
+        "prompt": "Preserve the original groove while refreshing the drum sounds"
+      },
+      {
+        "label": "Moderate rhythmic reinterpretation",
+        "prompt": "Retain the original rhythmic feel while allowing moderate rhythmic reinterpretation"
+      }
+    ],
+    "melody": [
+      {
+        "label": "Preserve melody and vocal phrasing",
+        "prompt": "Preserve the original melody and vocal phrasing"
+      },
+      {
+        "label": "Preserve melody, flexible phrasing",
+        "prompt": "Preserve the main melody while allowing subtle vocal phrasing changes"
+      },
+      {
+        "label": "Allow melodic embellishments",
+        "prompt": "Keep the main melodic identity while allowing new melodic embellishments"
+      }
+    ],
+    "structure": [
+      {
+        "label": "Preserve structure and section lengths",
+        "prompt": "Preserve the original song structure and section lengths"
+      },
+      {
+        "label": "Preserve sections, flexible intro/outro",
+        "prompt": "Preserve the original song sections while allowing subtle intro and outro changes"
+      },
+      {
+        "label": "Preserve verse/chorus order, allow extensions",
+        "prompt": "Keep the original verse and chorus order while allowing arrangement extensions"
+      }
+    ],
+    "transformation": [
+      {
+        "label": "Minimal",
+        "prompt": "Minimal arrangement changes"
+      },
+      {
+        "label": "Subtle",
+        "prompt": "Subtle arrangement changes while retaining the original musical identity"
+      },
+      {
+        "label": "Moderate",
+        "prompt": "Moderate arrangement changes while retaining the original musical identity"
+      },
+      {
+        "label": "Extensive",
+        "prompt": "Reimagine the arrangement while keeping the original song recognizable"
+      }
+    ]
+  },
+  "optional": {
+    "density": [
+      {
+        "label": "clean, uncluttered, spacious",
+        "prompt": "a clean, uncluttered, and spacious arrangement"
+      },
+      {
+        "label": "minimal and intimate",
+        "prompt": "a minimal and intimate arrangement"
+      },
+      {
+        "label": "full, punchy, balanced",
+        "prompt": "a full, punchy, and balanced arrangement"
+      },
+      {
+        "label": "richly layered and immersive",
+        "prompt": "a richly layered and immersive arrangement"
+      }
+    ],
+    "texture": [
+      {
+        "label": "Subtle electronic textures",
+        "prompt": "Subtle electronic textures"
+      },
+      {
+        "label": "Playful electronic textures",
+        "prompt": "Playful electronic textures"
+      },
+      {
+        "label": "Subtle nostalgic synth layers",
+        "prompt": "Subtle nostalgic synth layers"
+      },
+      {
+        "label": "Airy ambient textures",
+        "prompt": "Airy ambient textures"
+      },
+      {
+        "label": "Sparkling synth details",
+        "prompt": "Sparkling synth details"
+      },
+      {
+        "label": "Warm analog textures",
+        "prompt": "Warm analog textures"
+      },
+      {
+        "label": "Organic instrumental textures",
+        "prompt": "Organic instrumental textures"
+      },
+      {
+        "label": "Traditional acoustic textures",
+        "prompt": "Traditional acoustic textures"
+      },
+      {
+        "label": "Cinematic orchestral layers",
+        "prompt": "Cinematic orchestral layers"
+      }
+    ],
+    "transition": [
+      {
+        "label": "Smooth, energetic transitions",
+        "prompt": "Smooth, energetic transitions"
+      },
+      {
+        "label": "Gentle, seamless transitions",
+        "prompt": "Gentle, seamless transitions"
+      },
+      {
+        "label": "Dynamic, punchy transitions",
+        "prompt": "Dynamic, punchy transitions"
+      },
+      {
+        "label": "Subtle, understated transitions",
+        "prompt": "Subtle, understated transitions"
+      },
+      {
+        "label": "Gradual, cinematic transitions",
+        "prompt": "Gradual, cinematic transitions"
+      }
+    ],
+    "production": [
+      {
+        "label": "Subtle ambience with controlled reverb",
+        "prompt": "Subtle ambience with controlled reverb"
+      },
+      {
+        "label": "Short vocal delay with an intimate, up-front mix",
+        "prompt": "Short vocal delay with an intimate, up-front mix"
+      },
+      {
+        "label": "Subtle vintage tape warmth and soft saturation",
+        "prompt": "Subtle vintage tape warmth and soft saturation"
+      },
+      {
+        "label": "Wide stereo synth textures with a focused vocal center",
+        "prompt": "Wide stereo synth textures with a focused vocal center"
+      },
+      {
+        "label": "Dreamy shimmer reverb with restrained ambience",
+        "prompt": "Dreamy shimmer reverb with restrained ambience"
+      }
+    ],
+    "backing": [
+      {
+        "label": "Soft female group backing vocals",
+        "prompt": "Soft female group backing vocals"
+      },
+      {
+        "label": "Subtle layered vocal harmonies",
+        "prompt": "Subtle layered vocal harmonies"
+      },
+      {
+        "label": "Energetic female group chorus",
+        "prompt": "Energetic female group chorus"
+      },
+      {
+        "label": "Distant airy female backing vocals",
+        "prompt": "Distant airy female backing vocals"
+      }
+    ]
+  },
+  "defaults": {
+    "vocal": 0,
+    "fusionMode": "balanced",
+    "control": {
+      "tempo": 0,
+      "beat": 0,
+      "melody": 0,
+      "structure": 0,
+      "transformation": 2
+    },
+    "optional": {
+      "density": 2,
+      "transition": 0,
+      "production": 0
+    }
+  },
+  "presets": [
+    {
+      "name": "Retro 80s J-pop",
+      "genre": "J-pop / K-pop",
+      "subgenre": "Retro 80s J-pop",
+      "instrument": 2,
+      "mood": 1,
+      "optional": {
+        "texture": 2
+      }
+    },
+    {
+      "name": "Bright K-pop",
+      "genre": "J-pop / K-pop",
+      "subgenre": "K-pop",
+      "instrument": 0,
+      "mood": 0,
+      "vocal": 4,
+      "optional": {
+        "texture": 4,
+        "transition": 2
+      }
+    },
+    {
+      "name": "Pop-Rock Anthem",
+      "genre": "Pop / Pop-Rock",
+      "subgenre": "Pop-Rock",
+      "instrument": 2,
+      "mood": 6,
+      "vocal": 3,
+      "control": {
+        "transformation": 3
+      }
+    },
+    {
+      "name": "Alternative Rock",
+      "genre": "Rock",
+      "subgenre": "Alternative Rock",
+      "instrument": 1,
+      "mood": 6,
+      "vocal": 8
+    },
+    {
+      "name": "Japanese Traditional",
+      "genre": "Japanese Traditional",
+      "subgenre": "Modern Wa Fusion",
+      "instrument": 1,
+      "mood": 4,
+      "vocal": 10,
+      "optional": {
+        "texture": 7
+      }
+    },
+    {
+      "name": "Sundanese Degung",
+      "genre": "Sundanese Traditional",
+      "subgenre": "Degung",
+      "instrument": 0,
+      "mood": 2,
+      "vocal": 10,
+      "optional": {
+        "texture": 7
+      }
+    },
+    {
+      "name": "Jaipongan Fusion",
+      "genre": "Sundanese Traditional",
+      "subgenre": "Jaipongan",
+      "instrument": 2,
+      "mood": 0,
+      "fusion": "Electronic",
+      "fusionMode": "primary"
+    },
+    {
+      "name": "Cinematic Orchestral",
+      "genre": "Orchestral",
+      "subgenre": "Cinematic Orchestral",
+      "instrument": 3,
+      "mood": 4,
+      "vocal": 10,
+      "optional": {
+        "texture": 8,
+        "transition": 4
+      }
+    },
+    {
+      "name": "Synthwave",
+      "genre": "Electronic",
+      "subgenre": "Synthwave",
+      "instrument": 0,
+      "mood": 1,
+      "optional": {
+        "texture": 2
+      }
+    },
+    {
+      "name": "Bossa Nova",
+      "genre": "Jazz / Blues",
+      "subgenre": "Bossa Nova",
+      "instrument": 1,
+      "mood": 7,
+      "vocal": 2
+    }
+  ]
+}
